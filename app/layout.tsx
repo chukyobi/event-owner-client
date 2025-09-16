@@ -35,7 +35,7 @@ html {
       </head>
       <body className={inter.className}>
       <Suspense fallback={<div>Loading...</div>}>{children}</Suspense>
-        {children}
+       
      
       </body>
     </html>
