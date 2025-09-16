@@ -192,7 +192,7 @@ export default function SignupPage(): ReactElement {
         {/* Event Grid Image */}
         <div className="absolute inset-0 opacity-40">
           <img
-            src="/images/event-grid.png"
+            src="/image/music.png"
             alt="Event grid showcasing various concerts and events"
             className="w-full h-full object-cover"
           />
